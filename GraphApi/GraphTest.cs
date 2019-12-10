@@ -1,14 +1,16 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Microsoft.Graph;
 
-namespace UnitTestProject1
+namespace GraphApi
 {
     [TestClass]
-    public class UnitTest1
+    public class GraphTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void Login()
         {
+            
         }
     }
 }
